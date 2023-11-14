@@ -1,0 +1,28 @@
+{
+  "name": "testcafe-automation",
+  "version": "1.0.0",
+  "description": "testcafe demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsolis2/testcafe-automation.git"
+  },
+  "keywords": [
+    "TestCafe",
+    "Automation",
+    "Testing"
+  ],
+  "author": "David Solis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsolis2/testcafe-automation/issues"
+  },
+  "homepage": "https://github.com/dsolis2/testcafe-automation#readme",
+  "dependencies": {
+    "prettier": "^3.0.3",
+    "testcafe": "^3.3.0"
+  }
+}
